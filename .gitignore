@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+sources/cmake-build-debug/
+sources/main.cpp
+sources/CMakeLists.txt
 
 # Distribution / packaging
 .Python
