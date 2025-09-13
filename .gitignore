@@ -6,8 +6,10 @@ __pycache__/
 # C extensions
 *.so
 sources/cmake-build-debug/
-sources/main.cpp
+# sources/main.cpp
 sources/CMakeLists.txt
+sources/.idea/*
+linuxclass/
 
 # Distribution / packaging
 .Python
